@@ -9,8 +9,3 @@ designed to enable saving and discovery of information using images and videos, 
 
 ## Tech Stack
 Java/SpringBoot, React, AWS.
-
-
-
-## Credits
-Built and designed by Erin Fang.
