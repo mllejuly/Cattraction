@@ -1,4 +1,4 @@
-<p align="center"><img width="800" alt="logo" src="https://user-images.githubusercontent.com/38336855/97132695-14c75e80-171e-11eb-997b-44e4ad28e193.png"></p>
+<p align="left"><img width="800" alt="logo" src="https://user-images.githubusercontent.com/38336855/97132695-14c75e80-171e-11eb-997b-44e4ad28e193.png"></p>
 
 # Cattraction
 
