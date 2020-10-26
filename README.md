@@ -6,5 +6,11 @@ Cattraction is an comprehensive information portal that provide pet image sharin
 designed to enable saving and discovery of information using images and videos, in the form of pinboards.
 
 
+
 ## Tech Stack
-Java/SpringBoot, React, AWS
+Java/SpringBoot, React, AWS.
+
+
+
+## Credits
+Built and designed by Erin Fang.
